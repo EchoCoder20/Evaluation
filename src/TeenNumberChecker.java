@@ -6,4 +6,3 @@ public class TeenNumberChecker {
         return age >= 13 && age <= 19;
     }
 }
-//end of file
