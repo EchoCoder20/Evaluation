@@ -1,4 +1,3 @@
-//Recursion-1 > bunnyEars2
 public class BunnyEarsTwoCalculator {
     public int countBunnyEars(int bunnies) {
         if (bunnies == 0) {
