@@ -5,5 +5,4 @@ public class TeenNumberChecker {
     private static boolean isTeen(int age) {
         return age >= 13 && age <= 19;
     }
-
 }
