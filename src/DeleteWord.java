@@ -3,9 +3,9 @@ public class DeleteWord {
         if (str.length() <= 3) return str;
         char firstLetter = str.charAt(0);
         String delLocation = str.substring(1, 4);
-        String Final = str.substring(4);
+        String final_word = str.substring(4);
         if (str.length() >= 4 && delLocation.equals("del")) {
-            return firstLetter + Final;
+            return firstLetter + final_word;
         }
         return str;
     }
