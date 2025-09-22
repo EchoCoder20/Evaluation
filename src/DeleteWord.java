@@ -13,3 +13,4 @@ public class DeleteWord {
         System.out.println(delDel("adel"));
     }
 }
+
